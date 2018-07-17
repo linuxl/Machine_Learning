@@ -1,3 +1,3 @@
-Laplacian Eigenmaps 
-   
-
+#Laplacian Eigenmaps 
+*LE_plot
+*LE_demo
